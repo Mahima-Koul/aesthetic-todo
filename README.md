@@ -13,7 +13,7 @@ This project focuses on learning core frontend concepts while experimenting with
 
 > A calm and minimal workspace, very dark academia aesthetic-coded specifically meant for long night study sessions.
 
-![Preview](./screenshot.png)
+![Preview](./public/screenshot.png)
 
 ---
 
