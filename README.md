@@ -1,16 +1,65 @@
-# React + Vite
+# 🕯️ Aesthetic Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-Utility--first-38bdf8)
+![Status](https://img.shields.io/badge/Project-Practice-orange)
+![Made for Learning](https://img.shields.io/badge/Made%20for-Learning-lightgrey)
 
-Currently, two official plugins are available:
+A minimal **single-page dark academia inspired todo app** built to practice **React** and **Tailwind CSS**.
+This project focuses on learning core frontend concepts while experimenting with aesthetic UI design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+## ✨ Preview
 
-## React Compiler
+> A calm and minimal workspace, very dark academia aesthetic-coded specifically meant for long night study sessions.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+![Preview](./screenshot.png)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🖤 Features
+- ➕ Add tasks  
+- ✅ Mark tasks as completed  
+- 🗑️ Delete tasks  
+- ✏️ Edit tasks  
+- 🎨 Dark academia themed UI  
+- 📌 Clean and distraction-free layout  
+
+---
+
+## 🛠️ Tech Stack
+
+| Tech | Purpose |
+|------|--------|
+| React | UI + state management |
+| Tailwind CSS | Styling |
+| Vite | Fast development setup |
+| JavaScript | Logic |
+
+---
+
+## 🎯 Why I Built This
+
+This is a **practice project** made to:
+- Learn React fundamentals hands-on  
+- Get comfortable with hooks and state  
+- Understand component structure  
+- Explore Tailwind utility styling  
+- Build aesthetic UIs without templates  
+Instead of following a strict tutorial, this was built through experimentation and iteration.
+
+---
+## 🚀 Getting Started
+
+Clone the repo and run locally:
+
+```bash
+git clone https://github.com/your-username/dark-academia-todo.git
+cd dark-academia-todo
+npm install
+npm run dev
+```
+---
+## Note
+This project is intentionally made simple and beginner friendly. It is more about learning then being production ready. If you are also learning React+Tailwind, feel free to fork it and experiment with it. The aesthetics are the most important here.
+
